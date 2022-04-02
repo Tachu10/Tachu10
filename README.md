@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manohar
 - 👀 I’m interested in Java developer as well as Microservice Developer
-- 🌱 I’m currently learning Kafka steam and Microservices.
+- 🌱 I’m currently learning kafka stream and Microservices.
 - 📫 How to reach me mail : sachin.raghu1011@gmail.com
 
 <!---
